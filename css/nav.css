@@ -71,12 +71,12 @@ header nav li ul li {
 	position: relative;
 }
 header nav ul li>ul li:hover {
-	background: #000000;
+	background: #616161;
 	border-bottom: inset 5px solid #fff;
 }
 header nav ul li:hover {
-	box-shadow: 0px 0px 10px 0px #585858;
-	background-color: #585858;
+	box-shadow: 0px 0px 10px 0px #616161;
+	background-color: #616161;
 	transition-duration: 0.5s;
 	border-bottom: inset 5px solid #fff;
 }
