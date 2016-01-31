@@ -75,8 +75,8 @@ header nav ul li>ul li:hover {
 	border-bottom: inset 5px solid #fff;
 }
 header nav ul li:hover {
-	box-shadow: 0px 0px 10px 0px #AED581;
-	background-color: #AED581;
+	box-shadow: 0px 0px 10px 0px #585858;
+	background-color: #585858;
 	transition-duration: 0.5s;
 	border-bottom: inset 5px solid #fff;
 }
