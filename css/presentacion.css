@@ -1,4 +1,4 @@
-/*
+﻿/*
  *ROM-PacMe CSS: Presentación.
  *(c) 2015 Rafael PacMe <rafy.pachecomendez@gmail.com> 	
 */
@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-	font-family:'Product Sans', Ubuntu, sans-serif !important;
+	font-family:'Simplicity', Ubuntu, sans-serif !important;
 	font-size: 13pt !important;
 	font-weight: 300 !important;
 }
